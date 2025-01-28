@@ -7,13 +7,13 @@ O projeto consiste em uma página apresentando e fazendo o marketing do combo Al
 
 ## Ferramentas utiizadas: 
 
-*HTML
+* HTML
 
-*CSS
+* CSS
 
-*Flex-box
+* Flex-box
 
-*Grid layout
+* Grid layout
 
 ## Feito por:
 ### Adrian Daniel
